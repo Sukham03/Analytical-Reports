@@ -1,1 +1,1 @@
-# Analytical-Reports
+RetailCo Inventory Analytics is an end-to-end data analytics case study where I analyze sales, stock levels, suppliers, and purchase orders for a fictional retail chain using SQL, Python, and Power BI.
